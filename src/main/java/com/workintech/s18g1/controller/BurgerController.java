@@ -5,7 +5,7 @@ import com.workintech.s18g1.entity.BreadType;
 import com.workintech.s18g1.entity.Burger;
 import com.workintech.s18g1.util.BurgerValidation;
 import lombok.AllArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
+
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
